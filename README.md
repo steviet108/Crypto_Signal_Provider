@@ -77,7 +77,7 @@ To get started using this application please go to [Python Download](https://www
 
 The File of interest is labeled ``` crypto_signal_provider.py ```
 To run the file open the terminal, navigate to the directory with crypto_signal_provider.py and run ``` streamlit run crypto_signal_provider.py ```
-This web app is pulling historical data from the Nomics API, so please have your API key in a ``` .env ``` file in the working directory. If you need a Nomics API Key please go here ``` ![nomics api key](https://p.nomics.com/cryptocurrency-bitcoin-api) ```
+This web app is pulling historical data from the Nomics API, so please have your API key in a ``` .env ``` file in the working directory. If you need a Nomics API Key please go here   ![nomics api key](https://p.nomics.com/cryptocurrency-bitcoin-api) 
 Have Fun...
 
 
